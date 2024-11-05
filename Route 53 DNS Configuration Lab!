@@ -1,0 +1,13 @@
+Thrilled to share my latest hands-on cloud project! I just completed a lab where I configured DNS within a VPC using Amazon Route 53, set up an Ubuntu server, installed Apache, and deployed a custom website accessible via DNS. 🎉
+
+Key steps included:
+1️⃣ Setting up a VPC with DNS hostname and resolution enabled. 
+2️⃣ Launching an Ubuntu server and installing Apache.
+3️⃣ Deploying a custom website by transferring files via S3 and configuring Apache. 
+4️⃣ Configuring Route 53 with a hosted zone and custom DNS records to verify functionality.
+
+This lab was a fantastic learning experience, connecting foundational cloud concepts with practical application! 🌐
+
+Stay tuned, as I’ll be sharing more cloud projects that dive deeper into AWS tools and architecture. If you’re interested in learning cloud computing, follow along, and let’s connect! 🙌
+
+#CloudComputing #AWS #Route53 #VPC #CloudProjects #TechJourney #LearningCloud
